@@ -1,0 +1,23 @@
+{
+  "name": "shark-home",
+  "version": "1.0.0",
+  "description": "shark home",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "showdown": "^1.6.0"
+  },
+  "devDependencies": {
+    "@ntesmail/shark-css": "^1.2.4",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "openurl": "^1.1.1",
+    "prismjs": "^1.5.1",
+    "run-sequence": "^1.2.2",
+    "shark-automation": "^1.4.1",
+    "yargs": "^6.2.0"
+  }
+}
