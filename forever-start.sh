@@ -1,1 +1,1 @@
-forever start --uid "shark-home" app.js --port 9000
+forever start -a --uid "shark-home" app.js --port 9000
